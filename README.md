@@ -1,5 +1,5 @@
 # Hi! I'm Vladimir <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-## Python backend dev and chill guy) 
+## Python backend dev) 
 
 - 🎓 I'm currently in my second year at MAI, studying computer science.
 - 💻 Focusing on backend development and machine learning.

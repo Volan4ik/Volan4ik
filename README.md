@@ -1,7 +1,6 @@
-# Hi! I'm Vladimir <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-## Python backend dev) 
+# Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-- 🎓 I'm currently in my second year at MAI, studying computer science.
+- 🎓 on third year at MAI, studying computer science.
 - 💻 Focusing on backend development and machine learning.
 - 📍 Based in Moscow.
 - ✉️  You can connect me on [telegram](mailto:https://t.me/tutaevv)
